@@ -5,6 +5,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 import internal.GlobalVariable as GlobalVariable
 
+//verify login is successful
 CustomKeywords.'SampleClass.verifyHomePage'()
 
 
