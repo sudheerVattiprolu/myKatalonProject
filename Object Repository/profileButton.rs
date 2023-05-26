@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>profileButton</name>
+   <tag></tag>
+   <elementGuidId>96a40afc-0658-4de6-bf85-295e114a3b11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@class=&quot;rounded-circle&quot;]//ancestor::button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@class=&quot;rounded-circle&quot;]//ancestor::button</value>
+      <webElementGuid>f0798cd9-5942-4874-beb6-5798717533b1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

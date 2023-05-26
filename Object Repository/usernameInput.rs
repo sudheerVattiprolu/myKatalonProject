@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>usernameInput</name>
+   <tag></tag>
+   <elementGuidId>cebb2eba-9620-4770-9b20-c320041e5829</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@placeholder=&quot;Email&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@placeholder=&quot;Email&quot;]</value>
+      <webElementGuid>7d60e2af-b1b2-4e78-a1af-1c518f1d30de</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

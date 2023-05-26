@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>katalonStudioDownloadButton</name>
+   <tag></tag>
+   <elementGuidId>8d30ddc7-3a3c-469c-b8cf-007f66ae4485</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@data-trackid=&quot;download-ks-standalone&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@data-trackid=&quot;download-ks-standalone&quot;]</value>
+      <webElementGuid>6fd074ec-d0d4-46a1-9303-52452ea4fb77</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>closeDownloadPopup</name>
+   <tag></tag>
+   <elementGuidId>7b7b848e-2590-4177-944b-9b617e10e54e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@data-trackid=&quot;close-download-popup&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@data-trackid=&quot;close-download-popup&quot;]</value>
+      <webElementGuid>a7a0b691-f7f7-4133-8719-bc4d3e10d105</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

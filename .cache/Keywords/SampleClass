@@ -1,0 +1,36 @@
+{
+  "keywordFileContentHash": "F8E1292BB2C5C905A4A695AA234EB146",
+  "keywordClasses": [
+    {
+      "name": "SampleClass",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyHomePage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickDownloadButton",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyDownloadOptions",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "logout",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
