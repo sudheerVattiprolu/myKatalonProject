@@ -1,0 +1,2 @@
+# myKatalonProject
+MySampleProject
